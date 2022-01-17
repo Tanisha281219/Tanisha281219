@@ -13,12 +13,11 @@
 
 
 ## About Me:-
-
 - 🔭 I’m currently working on a discord bot
   
 - 🌱 I’m currently learning python
   
 - 😄 Pronouns: She/Her
   
-- ⚡ Fun fact: working out
+- ⚒ Purple Script 
 
