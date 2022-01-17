@@ -1,9 +1,8 @@
 ### Hey!!! there 👋
 
-<!--
-**Tanisha281219/Tanisha281219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Tanisha 💕</h1>
 
-Here are some ideas to get you started:
+## About Me:-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
