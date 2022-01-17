@@ -1,4 +1,12 @@
 ### Hey!!!👋
+<div align='center'>
+  <div align='center'>
+    <img
+      src='https://media.discordapp.net/attachments/931852872029720617/931852964031770644/images_6.jpeg'
+      width='138'
+      height='138'
+    />
+  </div>
 
 <h1>Tanisha 💕</h1>
 
