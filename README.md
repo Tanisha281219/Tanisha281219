@@ -9,6 +9,8 @@
   </div>
 
 <h1>Tanisha💕</h1>
+<blockquote><strong>(´｡• ω •｡`) Umm just a student learning about coding</strong></blockquote>
+
 
 ## About Me:-
 
