@@ -12,6 +12,8 @@
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4' />
 <blockquote><strong>(´｡• ω •｡`) Umm I'm just a student learning about coding</strong></blockquote>
   
+ <br />
+  
 ## About Me:-
 - 🔭 I’m currently working on a discord bot
   
@@ -19,6 +21,8 @@
   
 - ⚒ Purple Script 
 
+ <hr />
+  
   <blockquote><strong>ヽ(⌒▽⌒)ﾉ My Github statistics!!!<strong></blockquote>
     
   ![](https://github-readme-stats.vercel.app/api?username=Tanisha281219&count_private=true&show_icons=true&theme=uwu)
