@@ -10,8 +10,6 @@
 
 <h1>Tanisha💕</h1>
 <blockquote><strong>(´｡• ω •｡`) Umm I'm just a student learning about coding</strong></blockquote>
- 
-<br />
   
 ## About Me:-
 - 🔭 I’m currently working on a discord bot
@@ -22,3 +20,5 @@
   
 - ⚒ Purple Script 
 
+  <blockquote><strong>ヽ(⌒▽⌒)ﾉ My Github statistics!!!<strong></blockquote>
+  ![](https://github-readme-stats.vercel.app/api?username=Tanisha281219&count_private=true&show_icons=true&theme=gruvbox)
