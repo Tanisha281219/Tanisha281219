@@ -2,7 +2,7 @@
 <div align='center'>
   <div align='center'>
     <img
-      src='https://media.discordapp.net/attachments/931852872029720617/931852964031770644/images_6.jpeg'
+      src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stylized_uwu_emoticon.svg/1200px-Stylized_uwu_emoticon.svg.png'
       width='138'
       height='138'
     />
