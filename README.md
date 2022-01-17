@@ -21,4 +21,7 @@
 - ⚒ Purple Script 
 
   <blockquote><strong>ヽ(⌒▽⌒)ﾉ My Github statistics!!!<strong></blockquote>
+    
   ![](https://github-readme-stats.vercel.app/api?username=Tanisha281219&count_private=true&show_icons=true&theme=gruvbox)
+  
+  <img alt="who viewed me owo" src="https://github-readme-stats.vercel.app/api username=Tanisha281219&count_private=true&show_icons=true&theme=gruvbox" />
