@@ -11,7 +11,7 @@
 <h1>Tanisha💕</h1>
 <blockquote><strong>(´｡• ω •｡`) Umm just a student learning about coding</strong></blockquote>
   
-<a href='https://discord.com/users/852922161885741076' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/852922161885741076" /></a>
+<a href='https://discord.com/users/852922161885741076' target='_blank'></a>
 
 
 ## About Me:-
