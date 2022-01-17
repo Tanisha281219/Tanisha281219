@@ -9,11 +9,10 @@
   </div>
 
 <h1>Tanisha💕</h1>
-<blockquote><strong>(´｡• ω •｡`) Umm just a student learning about coding</strong></blockquote>
+<blockquote><strong>(´｡• ω •｡`) Umm I'm just a student learning about coding</strong></blockquote>
+ 
+<br />
   
-<a href='https://discord.com/users/852922161885741076' target='_blank'></a>
-
-
 ## About Me:-
 - 🔭 I’m currently working on a discord bot
   
