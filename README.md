@@ -9,6 +9,7 @@
   </div>
 
 <h1>Tanisha💕</h1>
+<img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4' />
 <blockquote><strong>(´｡• ω •｡`) Umm I'm just a student learning about coding</strong></blockquote>
   
 ## About Me:-
