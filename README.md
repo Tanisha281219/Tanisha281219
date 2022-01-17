@@ -22,5 +22,5 @@
 
   <blockquote><strong>ヽ(⌒▽⌒)ﾉ My Github statistics!!!<strong></blockquote>
     
-  ![](https://github-readme-stats.vercel.app/api?username=Tanisha281219&count_private=true&show_icons=true&theme=pink)
+  ![](https://github-readme-stats.vercel.app/api?username=Tanisha281219&count_private=true&show_icons=true&theme=uwu)
   
