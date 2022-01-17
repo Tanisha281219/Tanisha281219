@@ -8,7 +8,7 @@
     />
   </div>
 
-<h1>Tanisha ✨</h1>
+<h1>Tanisha✨</h1>
 
 ## About Me:-
 
