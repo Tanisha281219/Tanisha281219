@@ -17,8 +17,6 @@
   
 - 🌱 I’m currently learning python
   
-- 😄 Pronouns: She/Her
-  
 - ⚒ Purple Script 
 
   <blockquote><strong>ヽ(⌒▽⌒)ﾉ My Github statistics!!!<strong></blockquote>
